@@ -18,6 +18,10 @@ body ul {
   list-style: none;
 }
 
+i {
+  font-size: 2rem;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
